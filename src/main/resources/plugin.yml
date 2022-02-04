@@ -1,0 +1,5 @@
+name: LaunchPads
+version: '${project.version}'
+main: me.xcrownn.launchpads.LaunchPads
+api-version: 1.18
+authors: [ xCrownn ]
